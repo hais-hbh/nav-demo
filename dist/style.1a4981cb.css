@@ -21,14 +21,14 @@ a{
   overflow: hidden;
 }
 body{
-  background: url(background.99c164ff.png) no-repeat;
+  background: url(background.abc0aa8b.png) no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
   /* height: 100%; */
 }
 @media (min-width:500px) {
   body{
-    background: url(background.23edf81b.jpg) no-repeat;
+    background: url(background.4ccf83f9.jpg) no-repeat;
     background-size: 100% 100%;
   background-attachment: fixed;
   }
